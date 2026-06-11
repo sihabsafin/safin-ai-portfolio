@@ -10,7 +10,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sihabsafin.dev-00C896?style=flat-square&logo=vercel&logoColor=white)](https://your-domain.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sihabsafin.dev-00C896?style=flat-square&logo=vercel&logoColor=white)](https://sihabsafin.vercel.app.com)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-**[sihabsafin.dev](https://your-domain.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[github.com/sihabsafin](https://github.com/sihabsafin)** &nbsp;&nbsp;·&nbsp;&nbsp; **[linkedin.com/in/sihabsafin](https://linkedin.com/in/sihabsafin)**
+**[sihabsafin.vercel.app](https:https://sihabsafin.vercel.app/)** &nbsp;&nbsp;·&nbsp;&nbsp; **[github.com/sihabsafin](https://github.com/sihabsafin)** &nbsp;&nbsp;·&nbsp;&nbsp; **[linkedin.com/in/sihabsafin](https://linkedin.com/in/sihabsafin)**
 
 </div>
 
