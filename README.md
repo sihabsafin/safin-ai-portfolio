@@ -442,8 +442,8 @@ The portfolio itself is a maintained project. Planned improvements are tracked h
 |---|---|
 | GitHub | [github.com/sihabsafin](https://github.com/sihabsafin) |
 | LinkedIn | [linkedin.com/in/sihabsafin](https://linkedin.com/in/sihabsafin) |
-| Portfolio | [sihabsafin.dev](https://your-domain.com) |
-| Email | your@email.com |
+| Portfolio | [sihabsafin.vercel.app](https://sihabsafin.vercel.app/) |
+| Email | sihabulislamsafin1@gmail.com |
 
 Open to senior GenAI engineering roles, AI systems consulting, and research collaborations. Not open to junior positions or non-AI engineering work.
 
